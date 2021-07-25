@@ -1,0 +1,42 @@
+body{
+    background-image: url(/image/BookCourt_iStock-690358116-e1515177346323.jpg);
+    background-size: cover;
+}
+header{
+    text-align: center;
+    background-color:rgba(64, 34, 24,0.7);
+    height: 3rem;
+    font-size: xx-large;
+    background-size: cover;
+    margin-bottom: 1rem;
+}
+ 
+ 
+section#\31 {
+    background-color: rgba(64, 34, 24,0.7);
+    width:fit-content;
+
+}
+label {
+    margin-right: 21rem;
+}
+input {
+    flex-direction: column;
+} 
+section.\31 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+section#\32 {
+    background-color:rgba(64, 34, 24,0.7) ; 
+    margin-left: 3rem;
+}
+th#n {
+    padding-right: 10rem;
+    padding-left: 1.5rem;
+}
+th#\# {
+    padding-right: 10rem;
+}
